@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: hantmei/ci-cd:staging
+          tags: hantmei/ci-cd:staging_v2.1
 
 
   pull-and-up:
